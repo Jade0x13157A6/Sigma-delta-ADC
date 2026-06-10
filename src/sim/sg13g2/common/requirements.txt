@@ -1,0 +1,5 @@
+pytest
+cocotb==1.9.2
+cocotbext-spi
+numpy
+scipy

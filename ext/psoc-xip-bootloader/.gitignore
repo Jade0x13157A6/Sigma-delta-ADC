@@ -1,0 +1,20 @@
+# python
+__pycache__
+*.pyc
+
+# generated application files
+*.bin
+*.o
+*.asm
+*.out
+*.hex
+
+# temporary/legacy files/folders
+*.tmp
+~*
+de0_nano/db/
+de0_nano/output_files/
+de0_nano/incremental_db/
+
+# VS Code config
+/.vscode/
